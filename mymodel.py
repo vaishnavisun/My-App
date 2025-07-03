@@ -74,7 +74,6 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
    "id": "b88319b8-cfd6-40a8-a6e7-075a60a3f0a9",
    "metadata": {},
    "outputs": [],
